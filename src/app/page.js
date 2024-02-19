@@ -1,5 +1,5 @@
 'use serveur'
-import  Navbar  from '../../components/navbar/index.js';
+import  Navbar  from './navbar/index.js';
 const Home = ()=>{
   return <Navbar/>
 }
