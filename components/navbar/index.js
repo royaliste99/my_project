@@ -1,7 +1,6 @@
-import Image from "next/image";
+import Image from "next/image"
 const Navbar = () => {
-  return 
-    <>
+  return <>
       <nav class="bg-gray-800">
         <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
           <div class="relative flex h-16 items-center justify-between">
@@ -199,5 +198,5 @@ const Navbar = () => {
       </nav>
     </>
   
-};
-export default Navbar;
+}
+export default Navbar

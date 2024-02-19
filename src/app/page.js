@@ -1,7 +1,7 @@
-'use client'
+'use serveur'
 import  Navbar  from '../../components/navbar/index.js';
-const Navbar = ()=>{
-  return <>
-  </>
+const Home = ()=>{
+  return <Navbar/>
 }
-export default Navbar 
+
+export default Home;
