@@ -1,4 +1,7 @@
+'use client'
+import  Navbar  from '../../components/navbar/index.js';
 const Navbar = ()=>{
-  return 
+  return <>
+  </>
 }
 export default Navbar 
